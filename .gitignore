@@ -21,3 +21,6 @@ Thumbs.db
 venv/
 ENV/
 .env.* 
+
+
+learner/
